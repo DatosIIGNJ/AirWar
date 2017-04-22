@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Nave.cpp
+iostream
+-
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+Nave.h
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Nave.h
+
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Nave.h
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Objects.h
+
+/Users/Hernaldo/Desktop/AirWar++ 0.4/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+cstring
+-
+unistd.h
+-
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+allegro5/allegro_primitives.h
+-
+allegro5/allegro_audio.h
+-
+allegro5/allegro_acodec.h
+-
+allegro5/allegro_font.h
+-
+allegro5/allegro_ttf.h
+-
+fstream
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+Objects/Nave.h
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Nave.h
+Objects/Objects.h
+/Users/Hernaldo/Desktop/AirWar++ 0.4/Objects/Objects.h
+
