@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/AirWar__.dir/main.cpp.o  -o AirWar__  -L/home/nano/Documentos/AirWar++/usr/allegro5/include/lib -lallegro -lallegro_image -lallegro_audio -lallegro_acodec -lallegro_primitives -lallegro_font -lallegro_ttf -Wl,-rpath,/home/nano/Documentos/AirWar++/usr/allegro5/include/lib 
